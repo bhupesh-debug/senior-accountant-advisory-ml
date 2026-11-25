@@ -1,0 +1,61 @@
+client_id,entity_type,industry,state,complexity,staff_assigned,years_with_firm,annual_revenue
+C001,Individual,Retail,CA,4,2,5,2052606.87
+C002,Corporation,Construction,NJ,1,2,10,839552.63
+C003,Partnership,Hospitality,CA,3,1,9,1919044.13
+C004,S-Corp,Real Estate,NJ,5,3,7,2520493.64
+C005,LLC,Healthcare,PA,3,1,1,254035.46
+C006,Individual,Healthcare,CA,5,1,7,595199.19
+C007,Corporation,Hospitality,CT,1,3,5,455358.09
+C008,Partnership,E-commerce,CA,1,2,5,1090327.29
+C009,S-Corp,Healthcare,NJ,4,3,10,466467.43
+C010,LLC,Hospitality,PA,2,3,4,1436294.89
+C011,Individual,Construction,NJ,3,1,7,294510.71
+C012,Corporation,Real Estate,FL,4,3,5,1325724.55
+C013,Partnership,Construction,CA,3,3,9,927787.0
+C014,S-Corp,Real Estate,NJ,4,2,2,1539248.58
+C015,LLC,Construction,NY,4,3,8,146844.37
+C016,Individual,Hospitality,CT,4,2,5,361217.07
+C017,Corporation,Retail,NJ,2,1,5,2116144.14
+C018,Partnership,Hospitality,CA,3,1,8,872421.86
+C019,S-Corp,Healthcare,FL,1,2,8,497028.39
+C020,LLC,Professional Services,CT,3,3,3,590996.42
+C021,Individual,E-commerce,CA,1,1,9,1260320.76
+C022,Corporation,Retail,OH,2,2,7,455896.96
+C023,Partnership,Healthcare,CA,5,2,5,1205557.61
+C024,S-Corp,Real Estate,CT,1,2,1,479303.03
+C025,LLC,Construction,TX,4,2,8,739510.33
+C026,Individual,Manufacturing,OH,1,2,7,1516512.15
+C027,Corporation,Manufacturing,PA,2,1,7,113997.54
+C028,Partnership,Hospitality,OH,1,2,2,243538.05
+C029,S-Corp,Professional Services,OH,3,3,5,3045425.32
+C030,LLC,Professional Services,CT,4,1,8,261194.48
+C031,Individual,Hospitality,CT,1,1,5,1838276.4
+C032,Corporation,E-commerce,TX,2,3,4,947430.78
+C033,Partnership,Healthcare,NJ,3,3,1,407402.95
+C034,S-Corp,Construction,TX,3,1,7,4247991.24
+C035,LLC,Retail,TX,4,1,8,929122.95
+C036,Individual,Real Estate,NJ,3,1,4,1080093.5
+C037,Corporation,Hospitality,NY,1,2,8,263225.53
+C038,Partnership,Manufacturing,OH,3,2,4,1466906.09
+C039,S-Corp,Professional Services,NY,1,3,5,1029789.77
+C040,LLC,Real Estate,NY,1,1,5,17988598.75
+C041,Individual,Real Estate,OH,1,2,6,979191.6
+C042,Corporation,Real Estate,OH,2,2,6,372016.51
+C043,Partnership,Professional Services,NY,2,3,1,612620.95
+C044,S-Corp,E-commerce,CT,3,1,2,427222.96
+C045,LLC,Retail,CT,2,2,8,841803.57
+C046,Individual,Hospitality,CT,1,2,10,198106.86
+C047,Corporation,Manufacturing,NY,1,2,6,295514.93
+C048,Partnership,Professional Services,PA,5,3,4,2032404.87
+C049,S-Corp,Hospitality,CT,4,2,10,354950.47
+C050,LLC,Professional Services,NJ,1,2,1,189441.14
+C051,Individual,E-commerce,OH,1,3,1,869775.82
+C052,Corporation,Hospitality,NJ,5,1,6,3068200.88
+C053,Partnership,Retail,CA,2,2,5,1168968.25
+C054,S-Corp,Professional Services,TX,4,2,3,189678.17
+C055,LLC,E-commerce,NJ,1,1,1,598707.75
+C056,Individual,Construction,TX,1,2,6,215830.74
+C057,Corporation,Professional Services,CT,5,3,4,725318.35
+C058,Partnership,E-commerce,PA,1,3,1,3430546.2
+C059,S-Corp,Professional Services,NJ,1,3,10,691355.72
+C060,LLC,Retail,OH,4,3,6,277626.62
